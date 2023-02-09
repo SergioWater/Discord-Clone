@@ -57,7 +57,7 @@ function Sidebar() {
         </div>
       </div>
       <div className="sidebar__profile">
-        <Avatar/>
+        <Avatar src='https://avatars.githubusercontent.com/u/104388314?s=400&u=b1bff13964f28090f661f2f847d5ec19232be3da&v=4'/>
         <div className="sidebar__profileInfo">
           <h3>Sergio</h3>
           <p>#00000</p>
