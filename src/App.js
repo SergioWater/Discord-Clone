@@ -28,9 +28,10 @@ function App() {
           }))
         } else{
           //user is logged out
+          dispatch(logout())
         }
       });
-  }, [])
+  }, [dispatch])
   return (
     //BEM naming convention
 
